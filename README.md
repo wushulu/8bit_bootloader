@@ -5,3 +5,6 @@
 
 
 ###  当git出错时候 文件不一致时  git pull --rebase origin master
+## Microchip PMSM电机控制采用的是dspic33系列的16bits单片机，特有的控制算法。
+
+### 滑模控制算法
