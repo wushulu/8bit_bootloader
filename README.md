@@ -8,3 +8,15 @@
 ## Microchip PMSM电机控制采用的是dspic33系列的16bits单片机，特有的控制算法。
 
 ### 滑模控制算法
+
+
+## 代码列[^code]
+'''C
+#include<stdio.h>
+
+int main(void)
+{
+
+printf("hello my world");
+}
+'''C
