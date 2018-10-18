@@ -11,7 +11,7 @@
 
 
 ## 代码列[^code]
-'''C
+```
 #include<stdio.h>
 
 int main(void)
@@ -19,4 +19,4 @@ int main(void)
 
 printf("hello my world");
 }
-'''C
+```
