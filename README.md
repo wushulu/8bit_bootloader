@@ -20,6 +20,6 @@ printf("hello my world");
 }
 ```
 ## 以下为重要笔记
-   mybootloader.rar 里面包含了 应用程序 APP和主程序 
-   其中CAN 端口复用要小心复用代码使用上存在Bug 映射要在boot里面
-   V1.41修复PPS 只在APP里面使用 。BootLoader里面使用会导致APP里面无法操作
+   mybootloader.rar 里面包含了 应用程序 APP和主程序 <br>
+   其中CAN 端口复用要小心复用代码使用上存在Bug 映射要在boot里面<br>
+   V1.41修复PPS 只在APP里面使用 。BootLoader里面使用会导致APP里面无法操作<br>
